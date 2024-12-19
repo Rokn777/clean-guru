@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:fl_chart/fl_chart.dart';
-import '../constants/chart_constants.dart';
+import '../../constants/chart_constants.dart';
 
 class BasePieChart extends StatelessWidget {
   final double value;
@@ -33,12 +33,10 @@ class BasePieChart extends StatelessWidget {
                   color: color,
                   radius: size / 2,
                   title: '${value.toInt()}%',
-                  titleStyle: const TextStyle(
+                  titleStyle: TextStyle(
                     color: Colors.white,
                     fontSize: 16,
                     fontWeight: FontWeight.bold,
-                  ).copyWith(
-                    color: Colors.white.withAlpha(255),
                   ),
                 ),
                 PieChartSectionData(
@@ -50,8 +48,6 @@ class BasePieChart extends StatelessWidget {
                     color: Theme.of(context).colorScheme.onSurface,
                     fontSize: 14,
                     fontWeight: FontWeight.bold,
-                  ).copyWith(
-                    color: Theme.of(context).colorScheme.onSurface.withAlpha(255),
                   ),
                 ),
               ],
@@ -69,8 +65,8 @@ class BasePieChart extends StatelessWidget {
         Text(
           subtitle,
           style: Theme.of(context).textTheme.bodyMedium?.copyWith(
-            color: color.withAlpha(255),
-          ),
+                color: color,
+              ),
         ),
       ],
     );

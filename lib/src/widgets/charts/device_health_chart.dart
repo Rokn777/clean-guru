@@ -9,63 +9,57 @@ class DeviceHealthChart extends StatelessWidget {
   const DeviceHealthChart({
     super.key,
     required this.healthScore,
-    this.size = 180,  // Increased default size
+    this.size = 120,
     this.color,
   });
 
   @override
   Widget build(BuildContext context) {
-    final themeColor = color ?? Theme.of(context).colorScheme.primary;
+    final themeColor = color ?? Theme.of(context).colorScheme.secondary;
+    final backgroundColor = Theme.of(context).colorScheme.surfaceVariant;
     
-    return Column(
-      children: [
-        SizedBox(
-          height: size,
-          width: size,
-          child: PieChart(
+    return SizedBox(
+      height: size,
+      width: size,
+      child: Stack(
+        alignment: Alignment.center,
+        children: [
+          PieChart(
             PieChartData(
               sections: [
                 PieChartSectionData(
                   value: healthScore,
                   color: themeColor,
-                  radius: size / 2,
-                  title: '${healthScore.toInt()}%',
-                  titleStyle: const TextStyle(
-                    color: Colors.white,
-                    fontSize: 16,
-                    fontWeight: FontWeight.bold,
-                  ),
+                  radius: size / 3,
+                  title: '',
+                  showTitle: false,
                 ),
                 PieChartSectionData(
                   value: 100 - healthScore,
-                  color: Theme.of(context).colorScheme.surfaceVariant,
-                  radius: (size / 2) - 5,
-                  title: '${(100 - healthScore).toInt()}%',
-                  titleStyle: TextStyle(
-                    color: Theme.of(context).colorScheme.onSurfaceVariant,
-                    fontSize: 14,
-                    fontWeight: FontWeight.bold,
-                  ),
+                  color: backgroundColor.withOpacity(0.3),
+                  radius: size / 3,
+                  title: '',
+                  showTitle: false,
                 ),
               ],
-              sectionsSpace: 2,
-              centerSpaceRadius: 40,
+              sectionsSpace: 0,
+              centerSpaceRadius: size / 4,
+              startDegreeOffset: -90,
             ),
           ),
-        ),
-        const SizedBox(height: 16),
-        Text(
-          'Storage Usage',
-          style: Theme.of(context).textTheme.titleMedium,
-        ),
-        const SizedBox(height: 8),
-        Text(
-          '32.5 GB free of 128 GB',
-          style: Theme.of(context).textTheme.bodyMedium?.copyWith(
-            color: Theme.of(context).colorScheme.primary,
+          Column(
+            mainAxisSize: MainAxisSize.min,
+            children: [
+              Text(
+                healthScore.toInt().toString(),
+                style: Theme.of(context).textTheme.displaySmall?.copyWith(
+                  fontWeight: FontWeight.w500,
+                ),
+              ),
+            ],
           ),
-        ),
-      ],
+        ],
+      ),
     );
   }
 }

@@ -1,7 +1,6 @@
 plugins {
     id "com.android.application"
     id "kotlin-android"
-    // The Flutter Gradle Plugin must be applied after the Android and Kotlin Gradle plugins.
     id "dev.flutter.flutter-gradle-plugin"
 }
 
@@ -20,22 +19,44 @@ android {
     }
 
     defaultConfig {
-        // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
         applicationId = "com.cleanguru.clean_guru"
-        // You can update the following values to match your application needs.
-        // For more information, see: https://flutter.dev/to/review-gradle-config.
-        minSdk = flutter.minSdkVersion
+        minSdk = Math.max(flutter.minSdkVersion, 21)
         targetSdk = flutter.targetSdkVersion
         versionCode = flutter.versionCode
         versionName = flutter.versionName
+        multiDexEnabled = true
     }
 
     buildTypes {
         release {
-            // TODO: Add your own signing config for the release build.
-            // Signing with the debug keys for now, so `flutter run --release` works.
-            signingConfig = signingConfigs.debug
+            // Enables code shrinking, obfuscation, and optimization
+            minifyEnabled true
+            
+            // Enables resource shrinking
+            shrinkResources true
+            
+            // Default proguard config
+            proguardFiles(
+                getDefaultProguardFile("proguard-android-optimize.txt"),
+                "proguard-rules.pro"
+            )
+
+            // Flutter-specific proguard rules
+            // See https://github.com/flutter/flutter/blob/master/packages/flutter_tools/gradle/flutter.gradle
+            signingConfig signingConfigs.debug
         }
+        
+        debug {
+            // For debug builds, we don't need shrinking
+            minifyEnabled false
+            shrinkResources false
+        }
+    }
+
+    dependencies {
+        implementation 'androidx.window:window:1.0.0'
+        implementation 'androidx.window:window-java:1.0.0'
+        implementation 'androidx.multidex:multidex:2.0.1'
     }
 }
 

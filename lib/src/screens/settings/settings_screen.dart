@@ -37,17 +37,17 @@ class SettingsScreen extends StatelessWidget {
                     title: const Text('Language'),
                     trailing: DropdownButton<String>(
                       value: language.currentLanguage,
-                      items: const [
-                        DropdownMenuItem(
-                          value: 'en',
-                          child: Text('English'),
-                        ),
-                        DropdownMenuItem(
-                          value: 'ar',
-                          child: Text('العربية'),
-                        ),
-                      ],
-                      onChanged: language.changeLanguage,
+                      items: LanguageProvider.languages
+                          .map((lang) => DropdownMenuItem(
+                                value: lang['code'],
+                                child: Text(lang['name']!),
+                              ))
+                          .toList(),
+                      onChanged: (value) {
+                        if (value != null) {
+                          language.changeLanguage(value);
+                        }
+                      },
                     ),
                   ),
                 ),

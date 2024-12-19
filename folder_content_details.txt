@@ -1,0 +1,2392 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is 3AB8-C851
+
+ Directory of D:\FlutterProjects\clean_guru
+
+12/19/2024  11:00 PM    <DIR>          .
+12/19/2024  01:01 AM    <DIR>          ..
+12/19/2024  09:21 PM    <DIR>          .dart_tool
+12/19/2024  09:21 PM             2,395 .flutter-plugins
+12/19/2024  09:21 PM             8,441 .flutter-plugins-dependencies
+12/19/2024  07:15 PM    <DIR>          .git
+12/19/2024  01:24 PM             1,374 .gitignore
+12/19/2024  01:01 AM    <DIR>          .idea
+12/19/2024  01:01 AM             1,114 .metadata
+12/19/2024  01:01 AM             1,448 analysis_options.yaml
+12/19/2024  01:02 AM    <DIR>          android
+12/19/2024  01:09 AM    <DIR>          assets
+12/19/2024  09:21 PM    <DIR>          build
+12/19/2024  01:01 AM               859 clean_guru.iml
+12/19/2024  11:00 PM                 0 folder_content_details.txt
+12/19/2024  01:01 AM    <DIR>          ios
+12/19/2024  07:15 PM    <DIR>          lib
+12/19/2024  09:20 PM            21,540 pubspec.lock
+12/19/2024  08:32 PM             1,196 pubspec.yaml
+12/19/2024  01:01 AM             3,926 pubspec.yaml.bak
+12/19/2024  01:01 AM               569 README.md
+12/19/2024  01:09 AM    <DIR>          test
+              11 File(s)         42,862 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.dart_tool
+
+12/19/2024  09:21 PM    <DIR>          .
+12/19/2024  11:00 PM    <DIR>          ..
+12/19/2024  09:21 PM    <DIR>          flutter_build
+12/19/2024  09:20 PM            18,498 package_config.json
+12/19/2024  09:20 PM            16,385 package_config_subset
+12/19/2024  09:20 PM                 6 version
+               3 File(s)         34,889 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.dart_tool\flutter_build
+
+12/19/2024  09:21 PM    <DIR>          .
+12/19/2024  09:21 PM    <DIR>          ..
+12/19/2024  09:21 PM    <DIR>          96877d985c46c6e400b70984e4acdac3
+12/19/2024  09:21 PM             5,602 dart_plugin_registrant.dart
+               1 File(s)          5,602 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.dart_tool\flutter_build\96877d985c46c6e400b70984e4acdac3
+
+12/19/2024  09:21 PM    <DIR>          .
+12/19/2024  09:21 PM    <DIR>          ..
+12/19/2024  09:21 PM               284 .filecache
+12/19/2024  09:21 PM               183 gen_dart_plugin_registrant.stamp
+12/19/2024  09:21 PM                26 gen_localizations.stamp
+12/19/2024  09:21 PM           140,133 kernel_snapshot_program.d
+12/19/2024  09:21 PM                 2 outputs.json
+12/19/2024  09:21 PM        53,933,960 program.dill
+               6 File(s)     54,074,588 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git
+
+12/19/2024  07:15 PM    <DIR>          .
+12/19/2024  11:00 PM    <DIR>          ..
+12/19/2024  02:35 PM                57 COMMIT_EDITMSG
+12/19/2024  01:43 PM               300 config
+12/19/2024  01:33 PM                73 description
+12/19/2024  01:42 PM                21 HEAD
+12/19/2024  01:33 PM    <DIR>          hooks
+12/19/2024  07:15 PM            14,084 index
+12/19/2024  01:33 PM    <DIR>          info
+12/19/2024  01:33 PM    <DIR>          logs
+12/19/2024  07:15 PM    <DIR>          objects
+12/19/2024  07:15 PM                41 ORIG_HEAD
+12/19/2024  07:15 PM    <DIR>          refs
+               6 File(s)         14,576 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\hooks
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM               478 applypatch-msg.sample
+12/19/2024  01:33 PM               896 commit-msg.sample
+12/19/2024  01:33 PM             4,726 fsmonitor-watchman.sample
+12/19/2024  01:33 PM               189 post-update.sample
+12/19/2024  01:33 PM               424 pre-applypatch.sample
+12/19/2024  01:33 PM             1,649 pre-commit.sample
+12/19/2024  01:33 PM               416 pre-merge-commit.sample
+12/19/2024  01:33 PM             1,374 pre-push.sample
+12/19/2024  01:33 PM             4,898 pre-rebase.sample
+12/19/2024  01:33 PM               544 pre-receive.sample
+12/19/2024  01:33 PM             1,492 prepare-commit-msg.sample
+12/19/2024  01:33 PM             2,783 push-to-checkout.sample
+12/19/2024  01:33 PM             2,308 sendemail-validate.sample
+12/19/2024  01:33 PM             3,650 update.sample
+              14 File(s)         25,827 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\info
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM               240 exclude
+               1 File(s)            240 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\logs
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  07:15 PM               917 HEAD
+12/19/2024  07:15 PM    <DIR>          refs
+               1 File(s)            917 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\logs\refs
+
+12/19/2024  07:15 PM    <DIR>          .
+12/19/2024  01:33 PM    <DIR>          ..
+12/19/2024  01:42 PM    <DIR>          heads
+12/19/2024  01:43 PM    <DIR>          remotes
+12/19/2024  07:15 PM               154 stash
+               1 File(s)            154 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\logs\refs\heads
+
+12/19/2024  01:42 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  02:35 PM               578 main
+               1 File(s)            578 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\logs\refs\remotes
+
+12/19/2024  01:43 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:43 PM    <DIR>          origin
+               0 File(s)              0 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\logs\refs\remotes\origin
+
+12/19/2024  01:43 PM    <DIR>          .
+12/19/2024  01:43 PM    <DIR>          ..
+12/19/2024  02:35 PM               294 main
+               1 File(s)            294 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects
+
+12/19/2024  07:15 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM    <DIR>          00
+12/19/2024  01:33 PM    <DIR>          01
+12/19/2024  01:33 PM    <DIR>          02
+12/19/2024  01:33 PM    <DIR>          04
+12/19/2024  01:33 PM    <DIR>          06
+12/19/2024  01:33 PM    <DIR>          07
+12/19/2024  01:33 PM    <DIR>          08
+12/19/2024  01:33 PM    <DIR>          09
+12/19/2024  01:33 PM    <DIR>          0b
+12/19/2024  01:33 PM    <DIR>          0d
+12/19/2024  01:33 PM    <DIR>          0e
+12/19/2024  01:33 PM    <DIR>          0f
+12/19/2024  07:15 PM    <DIR>          10
+12/19/2024  07:15 PM    <DIR>          12
+12/19/2024  01:33 PM    <DIR>          14
+12/19/2024  01:33 PM    <DIR>          17
+12/19/2024  01:33 PM    <DIR>          18
+12/19/2024  01:33 PM    <DIR>          19
+12/19/2024  01:33 PM    <DIR>          1c
+12/19/2024  02:35 PM    <DIR>          1d
+12/19/2024  01:33 PM    <DIR>          1e
+12/19/2024  02:35 PM    <DIR>          21
+12/19/2024  01:33 PM    <DIR>          22
+12/19/2024  01:33 PM    <DIR>          23
+12/19/2024  01:33 PM    <DIR>          25
+12/19/2024  01:33 PM    <DIR>          26
+12/19/2024  01:33 PM    <DIR>          28
+12/19/2024  02:35 PM    <DIR>          29
+12/19/2024  01:33 PM    <DIR>          2c
+12/19/2024  02:35 PM    <DIR>          2d
+12/19/2024  07:15 PM    <DIR>          2e
+12/19/2024  07:15 PM    <DIR>          30
+12/19/2024  01:33 PM    <DIR>          31
+12/19/2024  07:15 PM    <DIR>          32
+12/19/2024  01:33 PM    <DIR>          36
+12/19/2024  01:33 PM    <DIR>          37
+12/19/2024  01:33 PM    <DIR>          38
+12/19/2024  01:33 PM    <DIR>          39
+12/19/2024  01:33 PM    <DIR>          3a
+12/19/2024  02:35 PM    <DIR>          3b
+12/19/2024  01:33 PM    <DIR>          3c
+12/19/2024  01:33 PM    <DIR>          3d
+12/19/2024  02:35 PM    <DIR>          3e
+12/19/2024  07:15 PM    <DIR>          3f
+12/19/2024  01:33 PM    <DIR>          46
+12/19/2024  01:33 PM    <DIR>          4c
+12/19/2024  01:33 PM    <DIR>          4d
+12/19/2024  07:15 PM    <DIR>          4e
+12/19/2024  02:35 PM    <DIR>          4f
+12/19/2024  01:33 PM    <DIR>          50
+12/19/2024  02:35 PM    <DIR>          52
+12/19/2024  01:33 PM    <DIR>          55
+12/19/2024  01:33 PM    <DIR>          57
+12/19/2024  01:33 PM    <DIR>          58
+12/19/2024  01:33 PM    <DIR>          59
+12/19/2024  01:33 PM    <DIR>          5a
+12/19/2024  07:15 PM    <DIR>          5b
+12/19/2024  01:33 PM    <DIR>          62
+12/19/2024  01:33 PM    <DIR>          63
+12/19/2024  07:15 PM    <DIR>          65
+12/19/2024  01:33 PM    <DIR>          67
+12/19/2024  01:33 PM    <DIR>          69
+12/19/2024  01:33 PM    <DIR>          6c
+12/19/2024  01:33 PM    <DIR>          6e
+12/19/2024  07:15 PM    <DIR>          70
+12/19/2024  02:35 PM    <DIR>          72
+12/19/2024  01:33 PM    <DIR>          73
+12/19/2024  07:15 PM    <DIR>          75
+12/19/2024  01:33 PM    <DIR>          76
+12/19/2024  02:35 PM    <DIR>          77
+12/19/2024  01:33 PM    <DIR>          79
+12/19/2024  01:33 PM    <DIR>          7a
+12/19/2024  01:33 PM    <DIR>          7b
+12/19/2024  07:15 PM    <DIR>          7c
+12/19/2024  01:33 PM    <DIR>          7d
+12/19/2024  07:15 PM    <DIR>          80
+12/19/2024  02:35 PM    <DIR>          82
+12/19/2024  01:33 PM    <DIR>          84
+12/19/2024  01:33 PM    <DIR>          85
+12/19/2024  02:35 PM    <DIR>          86
+12/19/2024  01:33 PM    <DIR>          87
+12/19/2024  07:15 PM    <DIR>          89
+12/19/2024  01:33 PM    <DIR>          8a
+12/19/2024  02:35 PM    <DIR>          8c
+12/19/2024  01:33 PM    <DIR>          8e
+12/19/2024  01:33 PM    <DIR>          91
+12/19/2024  02:35 PM    <DIR>          94
+12/19/2024  02:35 PM    <DIR>          97
+12/19/2024  01:33 PM    <DIR>          9a
+12/19/2024  01:33 PM    <DIR>          9d
+12/19/2024  01:33 PM    <DIR>          a0
+12/19/2024  01:33 PM    <DIR>          a1
+12/19/2024  01:33 PM    <DIR>          a2
+12/19/2024  01:33 PM    <DIR>          a5
+12/19/2024  01:33 PM    <DIR>          a6
+12/19/2024  07:15 PM    <DIR>          a7
+12/19/2024  02:35 PM    <DIR>          a8
+12/19/2024  07:15 PM    <DIR>          ab
+12/19/2024  07:15 PM    <DIR>          b1
+12/19/2024  01:33 PM    <DIR>          b5
+12/19/2024  01:33 PM    <DIR>          b7
+12/19/2024  01:33 PM    <DIR>          b9
+12/19/2024  01:33 PM    <DIR>          bd
+12/19/2024  01:33 PM    <DIR>          be
+12/19/2024  07:15 PM    <DIR>          c0
+12/19/2024  02:35 PM    <DIR>          c5
+12/19/2024  01:33 PM    <DIR>          c6
+12/19/2024  01:33 PM    <DIR>          cb
+12/19/2024  01:33 PM    <DIR>          d2
+12/19/2024  01:33 PM    <DIR>          d3
+12/19/2024  02:35 PM    <DIR>          d4
+12/19/2024  01:33 PM    <DIR>          d5
+12/19/2024  01:33 PM    <DIR>          d6
+12/19/2024  07:15 PM    <DIR>          d7
+12/19/2024  01:33 PM    <DIR>          da
+12/19/2024  02:35 PM    <DIR>          db
+12/19/2024  01:33 PM    <DIR>          dc
+12/19/2024  07:15 PM    <DIR>          dd
+12/19/2024  07:15 PM    <DIR>          e2
+12/19/2024  07:15 PM    <DIR>          e3
+12/19/2024  02:35 PM    <DIR>          e4
+12/19/2024  01:33 PM    <DIR>          e6
+12/19/2024  01:33 PM    <DIR>          e7
+12/19/2024  02:35 PM    <DIR>          e8
+12/19/2024  01:33 PM    <DIR>          e9
+12/19/2024  07:15 PM    <DIR>          ec
+12/19/2024  07:15 PM    <DIR>          ee
+12/19/2024  01:33 PM    <DIR>          f0
+12/19/2024  01:33 PM    <DIR>          f2
+12/19/2024  01:33 PM    <DIR>          f3
+12/19/2024  01:33 PM    <DIR>          f7
+12/19/2024  01:33 PM    <DIR>          f9
+12/19/2024  07:15 PM    <DIR>          fa
+12/19/2024  01:33 PM    <DIR>          fb
+12/19/2024  02:35 PM    <DIR>          fd
+12/19/2024  01:33 PM    <DIR>          fe
+12/19/2024  02:35 PM    <DIR>          ff
+12/19/2024  01:33 PM    <DIR>          info
+12/19/2024  01:33 PM    <DIR>          pack
+               0 File(s)              0 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\00
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM               684 bbcc321087716f82682051b9832eab6ac3b6c6
+               1 File(s)            684 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\01
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM                84 d8ddcb7c679ddec5d8f33496169fb5c8b0f7e8
+               1 File(s)             84 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\02
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM               217 108ba98fc8d8fa9785085cc7095dce3609f9b0
+               1 File(s)            217 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\04
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM             1,439 67bf12aa4d28f374bb26596605a46dcbb3e7c8
+               1 File(s)          1,439 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\06
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM                52 41d1b1cd030ce90933593ae4ee7c3a7019acfa
+12/19/2024  01:33 PM               485 952be745f9fa6fa75196e830d9578eb2ee631d
+12/19/2024  02:35 PM               434 f29c8e8424179edb87cbd67d02ff5cbb646cda
+               3 File(s)            971 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\07
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM            96,060 07e15c3ae09c0e97cc716cf329063a95f5d168
+               1 File(s)         96,060 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\08
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM               509 701a9a16366498f2e35883e4beac1d0cc203d1
+               1 File(s)            509 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\09
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM            51,518 8d2fb5851c92236b72f68263cd91886db729b6
+12/19/2024  01:33 PM               706 d4391482be68e9e4a07fab769b5de337d16eb1
+               2 File(s)         52,224 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\0b
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM               164 edcf2fd46788ae3a01a423467513ff59b5c120
+               1 File(s)            164 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\0d
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM               716 2902135caece481a035652d88970c80e29cc7e
+               1 File(s)            716 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\0e
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM               517 8d02ecd899632a0cebf3ca067b617e6bed300c
+12/19/2024  01:33 PM               882 c303439225b78712f49115768196d8d76f6790
+               2 File(s)          1,399 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\0f
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM                97 c9111b06dbd91b0404201ffe966ccc080d8981
+               1 File(s)             97 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\10
+
+12/19/2024  07:15 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  07:15 PM               628 6064135fc93aa57bcdf401e963efb7bba66950
+12/19/2024  01:33 PM               133 917a3aad4392bee09a45fa0daaf7156de8d976
+               2 File(s)            761 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\12
+
+12/19/2024  07:15 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM               579 8843f331eee77b9a61de35e4e8e0a1904c3752
+12/19/2024  07:15 PM               211 98a32666b21701a1e986b104d7d7e841b13a5c
+               2 File(s)            790 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\14
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM                65 8da3098986ea6c098d5a7b1f8e9cbf6b427b56
+               1 File(s)             65 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\17
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM               424 987b79bb8a35cc66c3c1fd44f5a5526c1b78be
+12/19/2024  01:33 PM               140 e9516a74074fad22bac3e52e39131886697622
+               2 File(s)            564 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\18
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM               217 cc800e92783024e39eb117ce9c2a840326a0a4
+12/19/2024  01:33 PM               206 d981003d68d0546c4804ac2ff47dd97c6e7921
+               2 File(s)            423 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\19
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM               968 37fc14518cc8473f3ff481c847c4faddd13dc7
+12/19/2024  01:33 PM               615 6cff6c311bfdf0fe0c556dce4cb28949d0b8f3
+               2 File(s)          1,583 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\1c
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM                64 4cfdd96a89b0095dbd29a6ca194e41ad77b4fd
+               1 File(s)             64 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\1d
+
+12/19/2024  02:35 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  02:35 PM               164 05010fe1954a76020b3a3635aef01fe9cee3d9
+12/19/2024  01:33 PM               133 526a16ed0f1cd0c2409d848bf489b93fefa3b2
+12/19/2024  01:33 PM                63 da9d083bc0a4d2a61aa862aa5563aa47bebf59
+               3 File(s)            360 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\1e
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM             4,555 42d90241dff39acc28f2c542811a4745fd81a4
+12/19/2024  01:33 PM               328 e6f06a13fbd5aa4b6a79419bb980297378a2fc
+12/19/2024  01:33 PM               139 f6caa660847d56663c6d620a1668019e4a9962
+               3 File(s)          5,022 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\21
+
+12/19/2024  02:35 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  02:35 PM               517 52b10a562ffe79beb02cc4687d88b3694045fb
+12/19/2024  01:33 PM             1,250 9ef252ba0e9103beb3f4fdafa41083eaa15e1d
+               2 File(s)          1,767 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\22
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM               455 c4462b79288fe10768cc571a36732ce5726025
+12/19/2024  01:33 PM                87 ef8e9b75e1b519b615aefa6fa02624719acb92
+               2 File(s)            542 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\23
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM             1,327 3a3a83a14570447891abe9fc10c35762e17c02
+               1 File(s)          1,327 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\25
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM                80 463d4828e3945289542738fa747defe9cdd497
+12/19/2024  01:33 PM               128 97170821647d2bd8b150d973a35d27c99a5f44
+12/19/2024  01:33 PM                60 a85b1f7afee4af8201fe4e0d69011be53090ea
+               3 File(s)            268 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\26
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM                59 113e75cb3933a911e95ab6de57528c0e286a08
+               1 File(s)             59 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\28
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM               217 1a1553e236fb40bb7bb6b1b67c65ddb52917a6
+               1 File(s)            217 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\29
+
+12/19/2024  02:35 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  02:35 PM               408 03cbd6145ca51508ea90d97ef605412a628fde
+               1 File(s)            408 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\2c
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM            83,052 0b5cd77931124743ad6798d1a24ed7bb7a0a08
+               1 File(s)         83,052 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\2d
+
+12/19/2024  02:35 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM            95,349 116d920580367caf6a179155f344ede856bf31
+12/19/2024  02:35 PM                62 ed8a2f541ec7110e6dac03af0df353aec8e1a2
+               2 File(s)         95,411 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\2e
+
+12/19/2024  07:15 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM               443 50118fa131500114c9a7ff1d14e1aa39fdfeb7
+12/19/2024  07:15 PM               966 f430e28b4c5ff2aeca44e943418f7daa997da9
+               2 File(s)          1,409 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\30
+
+12/19/2024  07:15 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  07:15 PM                86 0062e47f0c2270cc113a79127bd23fe605cf27
+12/19/2024  01:33 PM               280 4732f8842013497e14bd02f67a55f2614fb8f7
+12/19/2024  01:33 PM                54 8a2a560b42f17aaf3c36e4e9c8cd07182fbb7e
+               3 File(s)            420 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\31
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM                66 997cf111a96d0bd64ab965e35dbbdaef6bf5c0
+               1 File(s)             66 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\32
+
+12/19/2024  07:15 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM               724 1773cd857a8a0f0c9c7d3dc3f5ff4fb298dc10
+12/19/2024  07:15 PM                45 89753a8e90e9a258d486e7ea284fa6e1e8e9f2
+12/19/2024  02:35 PM               784 d37fdc3bbf084615e5c4d681f6ff8a85aa257b
+               3 File(s)          1,553 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\36
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM               232 469751855f00fc6ccbe77a5d6bbff93b17db71
+12/19/2024  01:33 PM                60 cbce676bcfbddfa689b9d0abf23ac40fd2e60b
+12/19/2024  01:33 PM             1,676 cfde8cca5ecf6eec86dc4ee7d664f083598904
+               3 File(s)          1,968 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\37
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM                74 6d2f66726bc7b4e9390ce436f023c528198667
+               1 File(s)             74 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\38
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM            51,396 d283493b380d5e85a9f4ce365648a6936a77cf
+               1 File(s)         51,396 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\39
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM               257 9f6981d5d35475eb18e6068ae67cdd7c731978
+               1 File(s)            257 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\3a
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM                55 f93b882364ddc13fefa4826038d2c851bf5ea1
+               1 File(s)             55 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\3b
+
+12/19/2024  02:35 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM               335 7929c7b1d06f49dabc23e2e6578e3f02dd616d
+12/19/2024  02:35 PM               717 bee292ace30bbf3ce27ca6b4c29b158aa26a52
+               2 File(s)          1,052 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\3c
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM             1,418 39f7bc16f043702732ad90ea6d6d0942ddcae5
+               1 File(s)          1,418 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\3d
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM                60 f3d1a91dec9f419bbf32c7dbd7ffe3049577b7
+               1 File(s)             60 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\3e
+
+12/19/2024  02:35 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  02:35 PM               196 8f5d52758380fc1161233238b3bfa217a3e903
+               1 File(s)            196 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\3f
+
+12/19/2024  07:15 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  07:15 PM                87 81559bd928406743e44b1d491fbba247c6b88d
+12/19/2024  02:35 PM               281 b917f280357f34574dd462834df35d8edc2d7e
+               2 File(s)            368 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\46
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM                60 b726bd53d47e61ba941eb355b9c8633ebbaa20
+               1 File(s)             60 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\4c
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM               302 d7b0099ca80c806f8fe495613e8d6c69460d76
+12/19/2024  01:33 PM               117 fcd01e672e8eb71cfb232254cdca108cad1d88
+               2 File(s)            419 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\4d
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM             1,343 6372eebdb28e45604e46eeda8dd24651419bc0
+               1 File(s)          1,343 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\4e
+
+12/19/2024  07:15 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  07:15 PM             1,316 1e203fb83df3a372fab8072a4d000f222db9a2
+12/19/2024  02:35 PM               564 c25ba436c457d42671c5401b8fb2cea424d314
+               2 File(s)          1,880 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\4f
+
+12/19/2024  02:35 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  02:35 PM               130 cb41bea147b2fe9c6159bd78405e51d1b8bdfd
+               1 File(s)            130 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\50
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM               606 2f463a9bc882b461c96aadf492d1729e49e725
+               1 File(s)            606 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\52
+
+12/19/2024  02:35 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  02:35 PM             1,140 08cc76a04fcccc3cdc714c07e96c194b47b1fb
+12/19/2024  01:33 PM                63 0c34bb6098368f25d9ea6d6abe9a3883f92765
+               2 File(s)          1,203 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\55
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM               467 6b6474f071d60b7c0b276cdcfd60c2e9e2eac6
+12/19/2024  01:33 PM               530 a94bc436e8da258ffa1b1bb027f6a75df04b92
+12/19/2024  01:33 PM               184 afd919c6591c63bfcfda8a5ce8a60acc7666ca
+               3 File(s)          1,181 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\57
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM               153 9be40294404d8e89970246c2babae2315b2571
+               1 File(s)            153 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\58
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM               204 e38d231755e652e3a98596cff0a24cf990acd9
+               1 File(s)            204 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\59
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM                46 2ceee85b89bd111b779db6116b130509ab6d4b
+12/19/2024  01:33 PM               486 5e2b3f207e59369ed1a93de402a52f45e3f313
+               2 File(s)            532 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\5a
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM                53 857da2e5301364b4a716677146e13fe017169d
+12/19/2024  01:33 PM               278 88276a7b36980d2efa2689a410aebb67aa65b8
+               2 File(s)            331 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\5b
+
+12/19/2024  07:15 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM                59 161fd3812a7b802a4135b936ed82a956819a88
+12/19/2024  07:15 PM                83 729b57b68609838f40def9d94d7c1140923214
+12/19/2024  07:15 PM               164 bc04edbaa8abf04c35f9791ef28f8592fd70c8
+               3 File(s)            306 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\62
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM               241 6664468b8914efda0addf1322b12b8c0071710
+12/19/2024  01:33 PM                66 b026838b54829aa90d1fce5a0201d625b15908
+12/19/2024  01:33 PM                62 ee82f89d540e4ca01e49ae524d81ad200163fd
+               3 File(s)            369 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\63
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM                51 2d2b2d22cecb11f32745c644c827ecf75669ff
+12/19/2024  01:33 PM                65 b7a5e3f522156e74bcf5ec589a70ff91fcfb60
+               2 File(s)            116 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\65
+
+12/19/2024  07:15 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  07:15 PM                52 65b9a8a433acf74488c504d50992863898206c
+               1 File(s)             52 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\67
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM                60 2f1e75413a34c2913ee225c143d7951357b47f
+               1 File(s)             60 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\69
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM                68 0dbba97f29a0d912cb5f24e1591c2883d489da
+12/19/2024  02:35 PM                64 6cf7631b412f14891081f61f3df0084f87323e
+               2 File(s)            132 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\6c
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM                95 8e736c9131cbed40246aad6c478f4be38fbd3f
+               1 File(s)             95 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\6e
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM               990 9443702e19676ec14691761f86a80931b2d589
+12/19/2024  01:33 PM               470 d2d933e1120817fe9182483a228007b18ab6ae
+               2 File(s)          1,460 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\70
+
+12/19/2024  07:15 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  07:15 PM             5,836 1c30bee12f516189249d285867d12981442472
+               1 File(s)          5,836 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\72
+
+12/19/2024  02:35 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  02:35 PM               265 7138ac83a2501f009e63a71671574b16238c9d
+               1 File(s)            265 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\73
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM               315 53c41ecf9ca08017312dc233d9830079b50717
+               1 File(s)            315 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\75
+
+12/19/2024  07:15 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  07:15 PM               480 661cdade3f87ed2d7ee00f0dea98d1ed2093f7
+               1 File(s)            480 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\76
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM                61 248ace76ea35d9f402326a948986ce2b9365d0
+12/19/2024  01:33 PM                55 e1789b06850f063df87b763f25be27996e1488
+               2 File(s)            116 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\77
+
+12/19/2024  02:35 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  02:35 PM               400 44c51cfd088ab18e534a87cac16586b215ece9
+12/19/2024  01:33 PM                62 681f469c9b9a74f4b9c2acb5e4a76be617e44b
+12/19/2024  01:33 PM               123 a856d9d1e617aa561610661fcc99c3a16c52cd
+               3 File(s)            585 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\79
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM               426 7d452e458972bab9d994556c8305db4c827017
+               1 File(s)            426 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\7a
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM               321 7f9873ad7dceb4dc17087fb06c800fa0191376
+               1 File(s)            321 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\7b
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM               139 b2df6ba6ea53ebbee820728a3eef274ddd71bd
+               1 File(s)            139 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\7c
+
+12/19/2024  07:15 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM               334 56964006274498b0edaa77763cdd72c6d42b6a
+12/19/2024  07:15 PM               217 7e90d9d4e3874af364746e2b715721f08fccce
+               2 File(s)            551 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\7d
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM                45 1b4d1600253ca556a76f29b03a1309213da029
+               1 File(s)             45 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\80
+
+12/19/2024  07:15 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  07:15 PM               400 26fc416c4472146e28ab17611bed7663131c2d
+               1 File(s)            400 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\82
+
+12/19/2024  02:35 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  02:35 PM                92 28733ffc27fe8884d0694037c7229fc13b2fed
+12/19/2024  01:33 PM               519 51a3aaf48fc447d4abc067a72c720d32f12e25
+12/19/2024  01:33 PM                64 81b044b40e50629bf196b66e0285c478ff31d9
+               3 File(s)            675 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\84
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM               782 ac32ae7d989f82d5e46a60405adcc8279e8001
+               1 File(s)            782 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\85
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM               402 59889a1e1674a5bbb1038131fb51449d614f45
+               1 File(s)            402 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\86
+
+12/19/2024  02:35 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM               209 a7c3b1b6119f7dbdb8cec74f1b5b3e076bf949
+12/19/2024  02:35 PM                61 ec896dfe10c9e0880b8822fe2e438b4788d205
+               2 File(s)            270 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\87
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM               210 20922cedfec1e3ded84755673aa470efd47344
+               1 File(s)            210 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\89
+
+12/19/2024  07:15 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  07:15 PM               217 40002ce7a9bbcba2889f4a1c2625aa770fe884
+12/19/2024  01:33 PM             1,247 53cba09064923c5daf2d37e7c3c836ccdd794b
+12/19/2024  01:33 PM               224 c2725b70f1882be97f5214fafe22d27a0ec01e
+               3 File(s)          1,688 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\8a
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM               309 4e3cd2117deccf78cf5b5971b47ddbb63b7616
+               1 File(s)            309 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\8c
+
+12/19/2024  02:35 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  02:35 PM                67 a567517fdfd65eac3888d6b53a8c36684cf205
+               1 File(s)             67 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\8e
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM               916 3ca5dfe1936519e96475be8d0b5ff5faa43727
+               1 File(s)            916 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\91
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  02:35 PM             5,141 74b423cb921954aea6a0846c71f15ef5f25c7d
+12/19/2024  01:33 PM               117 9434a6254f0e9651f402737811be6634a03e9c
+               2 File(s)          5,258 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\94
+
+12/19/2024  02:35 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  02:35 PM                83 58691319f5063f4e819d4acb8fd66719ef1a3b
+12/19/2024  02:35 PM               395 f4ecd03db9e2f57d84dab4e2eb6489ed644068
+               2 File(s)            478 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\97
+
+12/19/2024  02:35 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  02:35 PM               330 2fffc0cb2063af5dce396bc6a90c1e98f7dde0
+               1 File(s)            330 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\9a
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM               474 02fcba86e8cf31f63629c1b33f82d3ef10492b
+12/19/2024  01:33 PM               111 42773adb3098b13840fb9de2a52064aa8eaeb0
+               2 File(s)            585 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\9d
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM                77 a19eacad3b03bb08bbddbbf4ac48dd78b3d838
+               1 File(s)             77 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\a0
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM                61 7eafc5b0bdfc17c4a2fadc66f5d8f1c8e94e97
+               1 File(s)             61 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\a1
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM               330 f4961977937f0c557af884d445d5d7b1496a75
+               1 File(s)            330 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\a2
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM                62 b653772ed8cba64041e99f105f1cc76b2ca081
+               1 File(s)             62 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\a5
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM               104 74fb9e3907608e950927d928b60aed4a83795a
+12/19/2024  01:33 PM             1,426 76946ef377ae372117f1ea71a328de911fe2fb
+               2 File(s)          1,530 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\a6
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM                60 368af0ee7628fa194ef8fe3bbe4523113d6e05
+               1 File(s)             60 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\a7
+
+12/19/2024  07:15 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  07:15 PM               233 21d8a500d88542410c13d28bfb4abe2d7240eb
+               1 File(s)            233 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\a8
+
+12/19/2024  02:35 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM               245 44fbe677e46ae432acfc57dcf02bbc0de2dbb3
+12/19/2024  02:35 PM               712 4c126ede187d4526437b3b6684d4842844ef7f
+12/19/2024  01:33 PM                98 7eef84a5d29844f41176f808a797cea593616b
+12/19/2024  01:33 PM               266 f70e9cf7e6143400076fb78a6011b7b5a87701
+               4 File(s)          1,321 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\ab
+
+12/19/2024  07:15 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  07:15 PM               130 8c7798bbadc1ea05e58ec0540687fda3e8e946
+12/19/2024  02:35 PM                59 db16e272b4c0fd5c6c2af13b29c4ecc283c789
+               2 File(s)            189 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\b1
+
+12/19/2024  07:15 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  07:15 PM               544 478e800bba9ee00e4e2043dc2c1eb1989f46df
+               1 File(s)            544 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\b5
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM                67 1ff59d2186b1566dc7a88b001fdb776962754a
+               1 File(s)             67 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\b7
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM                60 ad1fa7488a13d5f0a4fb2b528f03ddf586f75c
+12/19/2024  01:33 PM                62 d22e404138696cbe82c68822e54b0fa8ec1a4a
+               2 File(s)            122 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\b9
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM               371 e43bd37614c4e28ab1d41c3d6a262832ce26e4
+               1 File(s)            371 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\bd
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM               291 a0b7c8f9d4af210c3d99291cacdf3c902a7de9
+               1 File(s)            291 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\be
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM             1,160 0e55e2c520d046362c65188af03f422f4fb0b3
+12/19/2024  01:33 PM               613 327b1604620cd5d2af01046073fb61fb9e0251
+               2 File(s)          1,773 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\c0
+
+12/19/2024  07:15 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  07:15 PM               796 087bcbc29789e3284be958a362d19c7461b86f
+               1 File(s)            796 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\c5
+
+12/19/2024  02:35 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  02:35 PM             1,114 dd3e5365db0a66ad83a969420262ed490fe709
+               1 File(s)          1,114 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\c6
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM               355 1cda2de2aa0e36b20e7a3698b793a600266e79
+               1 File(s)            355 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\cb
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM               486 1ef88056edd1caf99a935e434e7ff6943a0ef6
+               1 File(s)            486 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\d2
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM               187 ffbffa4cd251cc00b2b93a5efc2a0213460220
+               1 File(s)            187 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\d3
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM               335 6b1fab2d9dea668a4f83df94d525897d9e68dd
+12/19/2024  01:33 PM               104 b9e0aafa70e7b518de6d7f36503def555e3867
+               2 File(s)            439 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\d4
+
+12/19/2024  02:35 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  02:35 PM                64 2e8b84aa3944bd5f097523917ddfd0d90079db
+               1 File(s)             64 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\d5
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM                86 6c4aac6c9b4dfb9052205b731ed1491ccc29b4
+12/19/2024  01:33 PM             1,005 f1c8d34e7a88e3f88bea192c3a370d44689c3c
+               2 File(s)          1,091 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\d6
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM               936 20485f29c823c6d805414e8a4fe21722fb4fff
+               1 File(s)            936 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\d7
+
+12/19/2024  07:15 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  07:15 PM               124 17b8a6a760c8433c05d0d41f08fab9ad0e055b
+12/19/2024  01:33 PM                60 61c53178cc135119f252e047fb2f6e08512ed0
+               2 File(s)            184 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\da
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM                77 4a8c07371ad83f0266373f348e0903b5a55879
+12/19/2024  01:33 PM                69 8cb85301fcf6d0b65a58ae13fb92575616ad16
+               2 File(s)            146 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\db
+
+12/19/2024  02:35 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  02:35 PM               710 032a8727fc8fa7640cd399955a0b028f044f7f
+12/19/2024  01:33 PM               530 77bb4b7b0906d62b1847e87f15cdcacf6a4f29
+               2 File(s)          1,240 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\dc
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM             5,875 9ada4725e9b0ddb1deab583e5b5102493aa332
+               1 File(s)          5,875 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\dd
+
+12/19/2024  07:15 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  07:15 PM               198 96f5f8962ef4ebcbf096f8c732b6e2c60cd9de
+               1 File(s)            198 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\e2
+
+12/19/2024  07:15 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  07:15 PM                52 44b527dd58ae54e168ab82fabf9a36b806c403
+12/19/2024  01:33 PM                66 98f9a0c91ec9153fdd742b56c00836a3715b01
+               2 File(s)            118 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\e3
+
+12/19/2024  07:15 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  07:15 PM               217 c558d8e529be829d34fb80e7298893d5ee6371
+               1 File(s)            217 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\e4
+
+12/19/2024  02:35 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  02:35 PM                66 39ba1bf4f11e41e0c06feb93c03d691c70a355
+12/19/2024  01:33 PM                63 4b526fb6cdb176bdbd225cef5f2f8ff42b2753
+               2 File(s)            129 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\e6
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM            95,882 4db796d1fc0d6f05566dc394fc8640804fcf06
+12/19/2024  01:33 PM                15 9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+               2 File(s)         95,897 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\e7
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM                49 6a3bc05aa1dac65253643de35ff6243a3bfb37
+               1 File(s)             49 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\e8
+
+12/19/2024  02:35 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  02:35 PM               233 8233483352252367e6e88d5ca01df212f34842
+12/19/2024  01:33 PM                52 fd4ba2b21db31fb6b830c5c9c50f28048ecfe5
+               2 File(s)            285 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\e9
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM             1,695 f5fea27c705180eb716271f41b582e76dcbd90
+               1 File(s)          1,695 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\ec
+
+12/19/2024  07:15 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  07:15 PM                60 d39408e700128019863e69d4095403d4a1a38c
+               1 File(s)             60 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\ee
+
+12/19/2024  07:15 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  07:15 PM                66 549068487056770e214756fa03ccc617ab816a
+12/19/2024  07:15 PM               815 d39240051a1e7ef978546f40a447244fba29b2
+               2 File(s)            881 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\f0
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM               702 a1e86a492043262459b5fdc23f9a6b3337a3fc
+               1 File(s)            702 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\f2
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM               501 723685347f0d67c7eba75d08b0292b7f494de8
+12/19/2024  01:33 PM               972 e259c7c9390ff69a6bbe1e0907e6dc366848e7
+               2 File(s)          1,473 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\f3
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM               110 46021e5e353f2f827b3a136a02d0f53631c785
+12/19/2024  01:33 PM               723 c28516fb38e64d88cfcf5fb1791175df078f2f
+               2 File(s)            833 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\f7
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM               284 4085f3f6a2b995f8ad1f9ff7b2c46dc118a9e0
+               1 File(s)            284 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\f9
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM                67 a4c801f46a21687a12efe36325a21f7057b009
+12/19/2024  01:33 PM               197 b0d7c5ea15f194be85eb6ee8e6721a87ff4644
+               2 File(s)            264 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\fa
+
+12/19/2024  07:15 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM                89 06eb3af37b4372f6234b538234a1830d190ce7
+12/19/2024  07:15 PM               330 836e9067eed87509b4ad735db40f16ba193f6f
+               2 File(s)            419 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\fb
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM            50,501 9e6cc6ba56b5af11c5360d62d5557eb245ae61
+               1 File(s)         50,501 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\fd
+
+12/19/2024  02:35 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  02:35 PM                66 79aeff3e50747a2384f9ea1434182b5c48d230
+12/19/2024  01:33 PM               249 9cd9090eb8081876d0487c3365a1363d98b044
+               2 File(s)            315 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\fe
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:33 PM               482 730945a01f64a61e2235dbe3f45b08f7729182
+               1 File(s)            482 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\ff
+
+12/19/2024  02:35 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  02:35 PM               528 1603332917e1d73b49e2f563aaf020a9fe949f
+               1 File(s)            528 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\info
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\objects\pack
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\refs
+
+12/19/2024  07:15 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  07:15 PM    <DIR>          heads
+12/19/2024  01:43 PM    <DIR>          remotes
+12/19/2024  07:15 PM                41 stash
+12/19/2024  01:33 PM    <DIR>          tags
+               1 File(s)             41 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\refs\heads
+
+12/19/2024  07:15 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  02:35 PM                41 main
+               1 File(s)             41 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\refs\remotes
+
+12/19/2024  01:43 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  02:43 PM    <DIR>          origin
+               0 File(s)              0 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\refs\remotes\origin
+
+12/19/2024  02:43 PM    <DIR>          .
+12/19/2024  01:43 PM    <DIR>          ..
+12/19/2024  02:35 PM                41 main
+               1 File(s)             41 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.git\refs\tags
+
+12/19/2024  01:33 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.idea
+
+12/19/2024  01:01 AM    <DIR>          .
+12/19/2024  11:00 PM    <DIR>          ..
+12/19/2024  01:01 AM    <DIR>          libraries
+12/19/2024  01:01 AM               405 modules.xml
+12/19/2024  01:01 AM    <DIR>          runConfigurations
+12/19/2024  01:01 AM             1,553 workspace.xml
+               2 File(s)          1,958 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.idea\libraries
+
+12/19/2024  01:01 AM    <DIR>          .
+12/19/2024  01:01 AM    <DIR>          ..
+12/19/2024  01:01 AM               926 Dart_SDK.xml
+12/19/2024  01:01 AM               614 KotlinJavaRuntime.xml
+               2 File(s)          1,540 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\.idea\runConfigurations
+
+12/19/2024  01:01 AM    <DIR>          .
+12/19/2024  01:01 AM    <DIR>          ..
+12/19/2024  01:01 AM               276 main_dart.xml
+               1 File(s)            276 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\android
+
+12/19/2024  01:02 AM    <DIR>          .
+12/19/2024  11:00 PM    <DIR>          ..
+11/13/2024  05:11 PM               260 .gitignore
+12/19/2024  01:21 AM    <DIR>          .gradle
+12/19/2024  09:05 PM    <DIR>          app
+12/19/2024  09:04 PM               568 build.gradle
+12/19/2024  01:01 AM             1,630 clean_guru_android.iml
+12/19/2024  01:01 AM    <DIR>          gradle
+12/19/2024  01:01 AM               138 gradle.properties
+12/19/2024  01:01 AM             4,971 gradlew
+12/19/2024  01:01 AM             2,404 gradlew.bat
+12/19/2024  01:02 AM               147 local.properties
+12/19/2024  01:01 AM               752 settings.gradle
+               8 File(s)         10,870 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\android\.gradle
+
+12/19/2024  01:21 AM    <DIR>          .
+12/19/2024  01:02 AM    <DIR>          ..
+12/19/2024  01:03 AM    <DIR>          8.3
+12/19/2024  01:02 AM    <DIR>          buildOutputCleanup
+12/19/2024  01:00 PM                 8 file-system.probe
+12/19/2024  01:03 AM    <DIR>          kotlin
+12/19/2024  01:24 AM    <DIR>          nb-cache
+12/19/2024  01:03 AM    <DIR>          vcs-1
+               1 File(s)              8 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\android\.gradle\8.3
+
+12/19/2024  01:03 AM    <DIR>          .
+12/19/2024  01:21 AM    <DIR>          ..
+12/19/2024  01:22 AM    <DIR>          checksums
+12/19/2024  01:03 AM    <DIR>          dependencies-accessors
+12/19/2024  01:02 AM    <DIR>          executionHistory
+12/19/2024  01:03 AM    <DIR>          fileChanges
+12/19/2024  01:03 AM    <DIR>          fileHashes
+12/19/2024  01:03 AM                 0 gc.properties
+12/19/2024  01:02 AM    <DIR>          vcsMetadata
+               1 File(s)              0 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\android\.gradle\8.3\checksums
+
+12/19/2024  01:22 AM    <DIR>          .
+12/19/2024  01:03 AM    <DIR>          ..
+12/19/2024  09:21 PM                17 checksums.lock
+12/19/2024  07:06 PM            26,647 md5-checksums.bin
+12/19/2024  07:07 PM            41,663 sha1-checksums.bin
+               3 File(s)         68,327 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\android\.gradle\8.3\dependencies-accessors
+
+12/19/2024  01:03 AM    <DIR>          .
+12/19/2024  01:03 AM    <DIR>          ..
+12/19/2024  09:21 PM                17 dependencies-accessors.lock
+12/19/2024  01:03 AM                 0 gc.properties
+               2 File(s)             17 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\android\.gradle\8.3\executionHistory
+
+12/19/2024  01:02 AM    <DIR>          .
+12/19/2024  01:03 AM    <DIR>          ..
+12/19/2024  09:21 PM         4,219,547 executionHistory.bin
+12/19/2024  09:21 PM                17 executionHistory.lock
+               2 File(s)      4,219,564 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\android\.gradle\8.3\fileChanges
+
+12/19/2024  01:03 AM    <DIR>          .
+12/19/2024  01:03 AM    <DIR>          ..
+12/19/2024  09:21 PM                 1 last-build.bin
+               1 File(s)              1 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\android\.gradle\8.3\fileHashes
+
+12/19/2024  01:03 AM    <DIR>          .
+12/19/2024  01:03 AM    <DIR>          ..
+12/19/2024  09:21 PM           265,519 fileHashes.bin
+12/19/2024  09:21 PM                17 fileHashes.lock
+12/19/2024  02:48 PM            23,529 resourceHashesCache.bin
+               3 File(s)        289,065 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\android\.gradle\8.3\vcsMetadata
+
+12/19/2024  01:02 AM    <DIR>          .
+12/19/2024  01:03 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\android\.gradle\buildOutputCleanup
+
+12/19/2024  01:02 AM    <DIR>          .
+12/19/2024  01:21 AM    <DIR>          ..
+12/19/2024  09:21 PM                17 buildOutputCleanup.lock
+12/19/2024  01:02 AM                51 cache.properties
+12/19/2024  09:21 PM            87,515 outputFiles.bin
+               3 File(s)         87,583 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\android\.gradle\kotlin
+
+12/19/2024  01:03 AM    <DIR>          .
+12/19/2024  01:21 AM    <DIR>          ..
+12/19/2024  01:02 AM    <DIR>          errors
+12/19/2024  02:48 PM    <DIR>          sessions
+               0 File(s)              0 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\android\.gradle\kotlin\errors
+
+12/19/2024  01:02 AM    <DIR>          .
+12/19/2024  01:03 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\android\.gradle\kotlin\sessions
+
+12/19/2024  02:48 PM    <DIR>          .
+12/19/2024  01:03 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\android\.gradle\nb-cache
+
+12/19/2024  01:24 AM    <DIR>          .
+12/19/2024  01:21 AM    <DIR>          ..
+12/19/2024  01:23 AM    <DIR>          android-1202280026
+12/19/2024  01:24 AM    <DIR>          app-198659349
+12/19/2024  09:04 PM               891 subprojects.ser
+12/19/2024  01:21 AM    <DIR>          trust
+               1 File(s)            891 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\android\.gradle\nb-cache\android-1202280026
+
+12/19/2024  01:23 AM    <DIR>          .
+12/19/2024  01:24 AM    <DIR>          ..
+12/19/2024  01:23 AM            39,479 project-info.ser
+               1 File(s)         39,479 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\android\.gradle\nb-cache\app-198659349
+
+12/19/2024  01:24 AM    <DIR>          .
+12/19/2024  01:24 AM    <DIR>          ..
+12/19/2024  01:24 AM        77,735,515 project-info.ser
+               1 File(s)     77,735,515 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\android\.gradle\nb-cache\trust
+
+12/19/2024  01:21 AM    <DIR>          .
+12/19/2024  01:24 AM    <DIR>          ..
+12/19/2024  01:21 AM                66 1A0C4AF5AB249AD5B6780AE3A54E5E5EFE6CC2AB58CAD178620950DBF46C2245
+               1 File(s)             66 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\android\.gradle\vcs-1
+
+12/19/2024  01:03 AM    <DIR>          .
+12/19/2024  01:21 AM    <DIR>          ..
+12/19/2024  01:03 AM                 0 gc.properties
+               1 File(s)              0 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\android\app
+
+12/19/2024  09:05 PM    <DIR>          .
+12/19/2024  01:02 AM    <DIR>          ..
+12/19/2024  09:04 PM             1,846 build.gradle
+12/19/2024  09:05 PM               815 proguard-rules.pro
+12/19/2024  01:01 AM    <DIR>          src
+               2 File(s)          2,661 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\android\app\src
+
+12/19/2024  01:01 AM    <DIR>          .
+12/19/2024  09:05 PM    <DIR>          ..
+12/19/2024  01:01 AM    <DIR>          debug
+12/19/2024  01:01 AM    <DIR>          main
+12/19/2024  01:01 AM    <DIR>          profile
+               0 File(s)              0 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\android\app\src\debug
+
+12/19/2024  01:01 AM    <DIR>          .
+12/19/2024  01:01 AM    <DIR>          ..
+12/19/2024  01:01 AM               385 AndroidManifest.xml
+               1 File(s)            385 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\android\app\src\main
+
+12/19/2024  01:01 AM    <DIR>          .
+12/19/2024  01:01 AM    <DIR>          ..
+12/19/2024  08:38 PM             1,875 AndroidManifest.xml
+12/19/2024  01:01 AM    <DIR>          java
+12/19/2024  01:01 AM    <DIR>          kotlin
+12/19/2024  01:01 AM    <DIR>          res
+               1 File(s)          1,875 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\android\app\src\main\java
+
+12/19/2024  01:01 AM    <DIR>          .
+12/19/2024  01:01 AM    <DIR>          ..
+12/19/2024  01:01 AM    <DIR>          io
+               0 File(s)              0 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\android\app\src\main\java\io
+
+12/19/2024  01:01 AM    <DIR>          .
+12/19/2024  01:01 AM    <DIR>          ..
+12/19/2024  01:01 AM    <DIR>          flutter
+               0 File(s)              0 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\android\app\src\main\java\io\flutter
+
+12/19/2024  01:01 AM    <DIR>          .
+12/19/2024  01:01 AM    <DIR>          ..
+12/19/2024  01:01 AM    <DIR>          plugins
+               0 File(s)              0 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\android\app\src\main\java\io\flutter\plugins
+
+12/19/2024  01:01 AM    <DIR>          .
+12/19/2024  01:01 AM    <DIR>          ..
+12/19/2024  09:21 PM             2,595 GeneratedPluginRegistrant.java
+               1 File(s)          2,595 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\android\app\src\main\kotlin
+
+12/19/2024  01:01 AM    <DIR>          .
+12/19/2024  01:01 AM    <DIR>          ..
+12/19/2024  01:01 AM    <DIR>          com
+               0 File(s)              0 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\android\app\src\main\kotlin\com
+
+12/19/2024  01:01 AM    <DIR>          .
+12/19/2024  01:01 AM    <DIR>          ..
+12/19/2024  01:01 AM    <DIR>          cleanguru
+               0 File(s)              0 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\android\app\src\main\kotlin\com\cleanguru
+
+12/19/2024  01:01 AM    <DIR>          .
+12/19/2024  01:01 AM    <DIR>          ..
+12/19/2024  07:15 PM    <DIR>          clean_guru
+               0 File(s)              0 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\android\app\src\main\kotlin\com\cleanguru\clean_guru
+
+12/19/2024  07:15 PM    <DIR>          .
+12/19/2024  01:01 AM    <DIR>          ..
+12/19/2024  07:15 PM               130 MainActivity.kt
+12/19/2024  02:42 PM             3,588 PlatformService.kt
+               2 File(s)          3,718 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\android\app\src\main\res
+
+12/19/2024  01:01 AM    <DIR>          .
+12/19/2024  01:01 AM    <DIR>          ..
+12/19/2024  01:01 AM    <DIR>          drawable
+12/19/2024  01:01 AM    <DIR>          drawable-v21
+12/19/2024  01:01 AM    <DIR>          mipmap-hdpi
+12/19/2024  01:01 AM    <DIR>          mipmap-mdpi
+12/19/2024  01:01 AM    <DIR>          mipmap-xhdpi
+12/19/2024  01:01 AM    <DIR>          mipmap-xxhdpi
+12/19/2024  01:01 AM    <DIR>          mipmap-xxxhdpi
+12/19/2024  01:01 AM    <DIR>          values
+12/19/2024  01:01 AM    <DIR>          values-night
+               0 File(s)              0 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\android\app\src\main\res\drawable
+
+12/19/2024  01:01 AM    <DIR>          .
+12/19/2024  01:01 AM    <DIR>          ..
+11/13/2024  05:11 PM               446 launch_background.xml
+               1 File(s)            446 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\android\app\src\main\res\drawable-v21
+
+12/19/2024  01:01 AM    <DIR>          .
+12/19/2024  01:01 AM    <DIR>          ..
+11/13/2024  05:11 PM               450 launch_background.xml
+               1 File(s)            450 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\android\app\src\main\res\mipmap-hdpi
+
+12/19/2024  01:01 AM    <DIR>          .
+12/19/2024  01:01 AM    <DIR>          ..
+11/13/2024  05:11 PM               544 ic_launcher.png
+               1 File(s)            544 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\android\app\src\main\res\mipmap-mdpi
+
+12/19/2024  01:01 AM    <DIR>          .
+12/19/2024  01:01 AM    <DIR>          ..
+11/13/2024  05:11 PM               442 ic_launcher.png
+               1 File(s)            442 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\android\app\src\main\res\mipmap-xhdpi
+
+12/19/2024  01:01 AM    <DIR>          .
+12/19/2024  01:01 AM    <DIR>          ..
+11/13/2024  05:11 PM               721 ic_launcher.png
+               1 File(s)            721 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\android\app\src\main\res\mipmap-xxhdpi
+
+12/19/2024  01:01 AM    <DIR>          .
+12/19/2024  01:01 AM    <DIR>          ..
+11/13/2024  05:11 PM             1,031 ic_launcher.png
+               1 File(s)          1,031 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\android\app\src\main\res\mipmap-xxxhdpi
+
+12/19/2024  01:01 AM    <DIR>          .
+12/19/2024  01:01 AM    <DIR>          ..
+11/13/2024  05:11 PM             1,443 ic_launcher.png
+               1 File(s)          1,443 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\android\app\src\main\res\values
+
+12/19/2024  01:01 AM    <DIR>          .
+12/19/2024  01:01 AM    <DIR>          ..
+11/13/2024  05:11 PM             1,014 styles.xml
+               1 File(s)          1,014 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\android\app\src\main\res\values-night
+
+12/19/2024  01:01 AM    <DIR>          .
+12/19/2024  01:01 AM    <DIR>          ..
+11/13/2024  05:11 PM             1,013 styles.xml
+               1 File(s)          1,013 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\android\app\src\profile
+
+12/19/2024  01:01 AM    <DIR>          .
+12/19/2024  01:01 AM    <DIR>          ..
+12/19/2024  01:01 AM               385 AndroidManifest.xml
+               1 File(s)            385 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\android\gradle
+
+12/19/2024  01:01 AM    <DIR>          .
+12/19/2024  01:02 AM    <DIR>          ..
+12/19/2024  01:01 AM    <DIR>          wrapper
+               0 File(s)              0 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\android\gradle\wrapper
+
+12/19/2024  01:01 AM    <DIR>          .
+12/19/2024  01:01 AM    <DIR>          ..
+12/19/2024  01:01 AM            53,636 gradle-wrapper.jar
+12/19/2024  01:01 AM               205 gradle-wrapper.properties
+               2 File(s)         53,841 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\assets
+
+12/19/2024  01:09 AM    <DIR>          .
+12/19/2024  11:00 PM    <DIR>          ..
+12/19/2024  01:09 AM    <DIR>          animations
+12/19/2024  01:22 AM    <DIR>          fonts
+12/19/2024  01:44 AM    <DIR>          images
+12/19/2024  01:09 AM    <DIR>          ml
+               0 File(s)              0 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\assets\animations
+
+12/19/2024  01:09 AM    <DIR>          .
+12/19/2024  01:09 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\assets\fonts
+
+12/19/2024  01:22 AM    <DIR>          .
+12/19/2024  01:09 AM    <DIR>          ..
+04/10/2023  10:39 AM            94,656 Cairo-Bold.ttf
+04/10/2023  10:39 AM            94,648 Cairo-Medium.ttf
+04/10/2023  10:39 AM            94,484 Cairo-Regular.ttf
+09/05/2024  02:11 AM           167,336 Roboto-Bold.ttf
+09/05/2024  02:11 AM           168,644 Roboto-Medium.ttf
+09/05/2024  02:11 AM           168,260 Roboto-Regular.ttf
+               6 File(s)        788,028 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\assets\images
+
+12/19/2024  01:44 AM    <DIR>          .
+12/19/2024  01:09 AM    <DIR>          ..
+12/18/2024  12:47 PM            83,564 logo.png
+               1 File(s)         83,564 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\assets\ml
+
+12/19/2024  01:09 AM    <DIR>          .
+12/19/2024  01:09 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\build
+
+12/19/2024  09:21 PM    <DIR>          .
+12/19/2024  11:00 PM    <DIR>          ..
+12/19/2024  09:21 PM    <DIR>          203ef5b038bee0db518e41d576bf9efd
+12/19/2024  09:21 PM    <DIR>          app
+               0 File(s)              0 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\build\203ef5b038bee0db518e41d576bf9efd
+
+12/19/2024  09:21 PM    <DIR>          .
+12/19/2024  09:21 PM    <DIR>          ..
+12/19/2024  09:21 PM               183 gen_dart_plugin_registrant.stamp
+12/19/2024  09:21 PM                26 gen_localizations.stamp
+12/19/2024  09:21 PM                26 _composite.stamp
+               3 File(s)            235 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\build\app
+
+12/19/2024  09:21 PM    <DIR>          .
+12/19/2024  09:21 PM    <DIR>          ..
+12/19/2024  09:21 PM    <DIR>          intermediates
+               0 File(s)              0 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\build\app\intermediates
+
+12/19/2024  09:21 PM    <DIR>          .
+12/19/2024  09:21 PM    <DIR>          ..
+12/19/2024  09:21 PM    <DIR>          flutter
+               0 File(s)              0 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\build\app\intermediates\flutter
+
+12/19/2024  09:21 PM    <DIR>          .
+12/19/2024  09:21 PM    <DIR>          ..
+12/19/2024  09:21 PM    <DIR>          debug
+               0 File(s)              0 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\build\app\intermediates\flutter\debug
+
+12/19/2024  09:21 PM    <DIR>          .
+12/19/2024  09:21 PM    <DIR>          ..
+12/19/2024  09:21 PM                32 .last_build_id
+               1 File(s)             32 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\ios
+
+12/19/2024  01:01 AM    <DIR>          .
+12/19/2024  11:00 PM    <DIR>          ..
+11/13/2024  05:11 PM               603 .gitignore
+12/19/2024  09:20 PM    <DIR>          Flutter
+12/19/2024  07:15 PM    <DIR>          Runner
+12/19/2024  01:01 AM    <DIR>          Runner.xcodeproj
+12/19/2024  01:01 AM    <DIR>          Runner.xcworkspace
+12/19/2024  01:01 AM    <DIR>          RunnerTests
+               1 File(s)            603 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\ios\Flutter
+
+12/19/2024  09:20 PM    <DIR>          .
+12/19/2024  01:01 AM    <DIR>          ..
+11/13/2024  05:11 PM               800 AppFrameworkInfo.plist
+11/13/2024  05:11 PM                31 Debug.xcconfig
+12/19/2024  09:20 PM               513 flutter_export_environment.sh
+12/19/2024  09:20 PM               483 Generated.xcconfig
+11/13/2024  05:11 PM                31 Release.xcconfig
+               5 File(s)          1,858 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\ios\Runner
+
+12/19/2024  07:15 PM    <DIR>          .
+12/19/2024  01:01 AM    <DIR>          ..
+12/19/2024  07:15 PM               404 AppDelegate.swift
+12/19/2024  01:01 AM    <DIR>          Assets.xcassets
+12/19/2024  01:01 AM    <DIR>          Base.lproj
+12/19/2024  09:21 PM               378 GeneratedPluginRegistrant.h
+12/19/2024  09:21 PM             2,100 GeneratedPluginRegistrant.m
+12/19/2024  01:01 AM             1,696 Info.plist
+11/13/2024  05:11 PM                39 Runner-Bridging-Header.h
+               5 File(s)          4,617 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\ios\Runner\Assets.xcassets
+
+12/19/2024  01:01 AM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:01 AM    <DIR>          AppIcon.appiconset
+12/19/2024  01:01 AM    <DIR>          LaunchImage.imageset
+               0 File(s)              0 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\ios\Runner\Assets.xcassets\AppIcon.appiconset
+
+12/19/2024  01:01 AM    <DIR>          .
+12/19/2024  01:01 AM    <DIR>          ..
+11/13/2024  05:11 PM             2,641 Contents.json
+12/18/2024  11:22 AM            10,932 Icon-App-1024x1024@1x.png
+12/18/2024  11:22 AM               295 Icon-App-20x20@1x.png
+12/18/2024  11:22 AM               406 Icon-App-20x20@2x.png
+12/18/2024  11:22 AM               450 Icon-App-20x20@3x.png
+12/18/2024  11:22 AM               282 Icon-App-29x29@1x.png
+12/18/2024  11:22 AM               462 Icon-App-29x29@2x.png
+12/18/2024  11:22 AM               704 Icon-App-29x29@3x.png
+12/18/2024  11:22 AM               406 Icon-App-40x40@1x.png
+12/18/2024  11:22 AM               586 Icon-App-40x40@2x.png
+12/18/2024  11:22 AM               862 Icon-App-40x40@3x.png
+12/18/2024  11:22 AM               862 Icon-App-60x60@2x.png
+12/18/2024  11:22 AM             1,674 Icon-App-60x60@3x.png
+12/18/2024  11:22 AM               762 Icon-App-76x76@1x.png
+12/18/2024  11:22 AM             1,226 Icon-App-76x76@2x.png
+12/18/2024  11:22 AM             1,418 Icon-App-83.5x83.5@2x.png
+              16 File(s)         23,968 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\ios\Runner\Assets.xcassets\LaunchImage.imageset
+
+12/19/2024  01:01 AM    <DIR>          .
+12/19/2024  01:01 AM    <DIR>          ..
+11/13/2024  05:11 PM               414 Contents.json
+12/18/2024  11:22 AM                68 LaunchImage.png
+12/18/2024  11:22 AM                68 LaunchImage@2x.png
+12/18/2024  11:22 AM                68 LaunchImage@3x.png
+11/13/2024  05:11 PM               340 README.md
+               5 File(s)            958 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\ios\Runner\Base.lproj
+
+12/19/2024  01:01 AM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+11/13/2024  05:11 PM             2,414 LaunchScreen.storyboard
+11/13/2024  05:11 PM             1,631 Main.storyboard
+               2 File(s)          4,045 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\ios\Runner.xcodeproj
+
+12/19/2024  01:01 AM    <DIR>          .
+12/19/2024  01:01 AM    <DIR>          ..
+12/19/2024  01:01 AM            24,288 project.pbxproj
+12/19/2024  01:01 AM    <DIR>          project.xcworkspace
+12/19/2024  01:01 AM    <DIR>          xcshareddata
+               1 File(s)         24,288 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\ios\Runner.xcodeproj\project.xcworkspace
+
+12/19/2024  01:01 AM    <DIR>          .
+12/19/2024  01:01 AM    <DIR>          ..
+11/13/2024  05:11 PM               142 contents.xcworkspacedata
+12/19/2024  01:01 AM    <DIR>          xcshareddata
+               1 File(s)            142 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\ios\Runner.xcodeproj\project.xcworkspace\xcshareddata
+
+12/19/2024  01:01 AM    <DIR>          .
+12/19/2024  01:01 AM    <DIR>          ..
+11/13/2024  05:11 PM               246 IDEWorkspaceChecks.plist
+11/13/2024  05:11 PM               234 WorkspaceSettings.xcsettings
+               2 File(s)            480 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\ios\Runner.xcodeproj\xcshareddata
+
+12/19/2024  01:01 AM    <DIR>          .
+12/19/2024  01:01 AM    <DIR>          ..
+12/19/2024  01:01 AM    <DIR>          xcschemes
+               0 File(s)              0 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\ios\Runner.xcodeproj\xcshareddata\xcschemes
+
+12/19/2024  01:01 AM    <DIR>          .
+12/19/2024  01:01 AM    <DIR>          ..
+12/19/2024  01:01 AM             3,745 Runner.xcscheme
+               1 File(s)          3,745 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\ios\Runner.xcworkspace
+
+12/19/2024  01:01 AM    <DIR>          .
+12/19/2024  01:01 AM    <DIR>          ..
+11/13/2024  05:11 PM               159 contents.xcworkspacedata
+12/19/2024  01:01 AM    <DIR>          xcshareddata
+               1 File(s)            159 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\ios\Runner.xcworkspace\xcshareddata
+
+12/19/2024  01:01 AM    <DIR>          .
+12/19/2024  01:01 AM    <DIR>          ..
+11/13/2024  05:11 PM               246 IDEWorkspaceChecks.plist
+11/13/2024  05:11 PM               234 WorkspaceSettings.xcsettings
+               2 File(s)            480 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\ios\RunnerTests
+
+12/19/2024  01:01 AM    <DIR>          .
+12/19/2024  01:01 AM    <DIR>          ..
+12/19/2024  01:01 AM               297 RunnerTests.swift
+               1 File(s)            297 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\lib
+
+12/19/2024  07:15 PM    <DIR>          .
+12/19/2024  11:00 PM    <DIR>          ..
+12/19/2024  08:59 PM             4,397 main.dart
+12/19/2024  07:15 PM    <DIR>          src
+               1 File(s)          4,397 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\lib\src
+
+12/19/2024  07:15 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  07:15 PM               511 app.dart
+12/19/2024  02:01 PM    <DIR>          constants
+12/19/2024  01:18 AM                 0 di.dart
+12/19/2024  01:15 AM    <DIR>          engines
+12/19/2024  01:18 AM    <DIR>          l10n
+12/19/2024  01:54 AM    <DIR>          models
+12/19/2024  06:56 PM    <DIR>          navigation
+12/19/2024  06:57 PM    <DIR>          providers
+12/19/2024  02:25 AM               977 routes.dart
+12/19/2024  06:53 PM    <DIR>          screens
+12/19/2024  06:19 PM    <DIR>          services
+12/19/2024  01:16 AM    <DIR>          themes
+12/19/2024  08:41 PM    <DIR>          utils
+12/19/2024  02:02 PM    <DIR>          widgets
+               3 File(s)          1,488 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\lib\src\constants
+
+12/19/2024  02:01 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  02:17 AM               550 app_constants.dart
+12/19/2024  02:01 PM               496 chart_constants.dart
+               2 File(s)          1,046 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\lib\src\engines
+
+12/19/2024  01:15 AM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:15 AM    <DIR>          analysis
+12/19/2024  01:15 AM    <DIR>          battery
+12/19/2024  01:15 AM    <DIR>          files
+               0 File(s)              0 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\lib\src\engines\analysis
+
+12/19/2024  01:15 AM    <DIR>          .
+12/19/2024  01:15 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\lib\src\engines\battery
+
+12/19/2024  01:15 AM    <DIR>          .
+12/19/2024  01:15 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\lib\src\engines\files
+
+12/19/2024  01:15 AM    <DIR>          .
+12/19/2024  01:15 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\lib\src\l10n
+
+12/19/2024  01:18 AM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:18 AM                 0 app_ar.arb
+12/19/2024  01:18 AM                 0 app_en.arb
+12/19/2024  01:18 AM                 0 l10n.dart
+               3 File(s)              0 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\lib\src\models
+
+12/19/2024  01:54 AM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  01:51 AM    <DIR>          battery
+12/19/2024  01:54 AM    <DIR>          storage
+               0 File(s)              0 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\lib\src\models\battery
+
+12/19/2024  01:51 AM    <DIR>          .
+12/19/2024  01:54 AM    <DIR>          ..
+12/19/2024  01:51 AM               536 battery_state.dart
+               1 File(s)            536 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\lib\src\models\storage
+
+12/19/2024  01:54 AM    <DIR>          .
+12/19/2024  01:54 AM    <DIR>          ..
+12/19/2024  01:54 AM               600 storage_data.dart
+               1 File(s)            600 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\lib\src\navigation
+
+12/19/2024  06:56 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  06:56 PM               679 app_navigator.dart
+               1 File(s)            679 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\lib\src\providers
+
+12/19/2024  06:57 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  02:24 PM    <DIR>          ai
+12/19/2024  06:27 PM    <DIR>          analytics
+12/19/2024  06:57 PM               827 base_provider.dart
+12/19/2024  01:16 AM    <DIR>          battery
+12/19/2024  06:21 PM    <DIR>          device
+12/19/2024  01:16 AM    <DIR>          language
+12/19/2024  06:24 PM    <DIR>          optimization
+12/19/2024  06:20 PM               254 providers.dart
+12/19/2024  07:15 PM    <DIR>          storage
+12/19/2024  01:16 AM    <DIR>          theme
+               2 File(s)          1,081 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\lib\src\providers\ai
+
+12/19/2024  02:24 PM    <DIR>          .
+12/19/2024  06:57 PM    <DIR>          ..
+12/19/2024  02:24 PM               790 ai_provider.dart
+               1 File(s)            790 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\lib\src\providers\analytics
+
+12/19/2024  06:27 PM    <DIR>          .
+12/19/2024  06:57 PM    <DIR>          ..
+12/19/2024  06:28 PM             1,933 analytics_provider.dart
+               1 File(s)          1,933 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\lib\src\providers\battery
+
+12/19/2024  01:16 AM    <DIR>          .
+12/19/2024  06:57 PM    <DIR>          ..
+12/19/2024  02:29 PM             3,155 battery_provider.dart
+               1 File(s)          3,155 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\lib\src\providers\device
+
+12/19/2024  06:21 PM    <DIR>          .
+12/19/2024  06:57 PM    <DIR>          ..
+12/19/2024  06:22 PM             1,388 device_provider.dart
+               1 File(s)          1,388 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\lib\src\providers\language
+
+12/19/2024  01:16 AM    <DIR>          .
+12/19/2024  06:57 PM    <DIR>          ..
+12/19/2024  02:25 PM               968 language_provider.dart
+               1 File(s)            968 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\lib\src\providers\optimization
+
+12/19/2024  06:24 PM    <DIR>          .
+12/19/2024  06:57 PM    <DIR>          ..
+12/19/2024  06:24 PM             2,425 optimization_provider.dart
+               1 File(s)          2,425 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\lib\src\providers\storage
+
+12/19/2024  07:15 PM    <DIR>          .
+12/19/2024  06:57 PM    <DIR>          ..
+12/19/2024  07:15 PM             1,361 storage_provider.dart
+               1 File(s)          1,361 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\lib\src\providers\theme
+
+12/19/2024  01:16 AM    <DIR>          .
+12/19/2024  06:57 PM    <DIR>          ..
+12/19/2024  02:25 PM               981 theme_provider.dart
+               1 File(s)            981 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\lib\src\screens
+
+12/19/2024  06:53 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  06:37 PM    <DIR>          analysis
+12/19/2024  06:53 PM    <DIR>          analytics
+12/19/2024  01:16 AM    <DIR>          battery
+12/19/2024  01:16 AM    <DIR>          dashboard
+12/19/2024  02:35 AM    <DIR>          main
+12/19/2024  02:54 AM    <DIR>          memory
+12/19/2024  06:29 PM    <DIR>          optimization
+12/19/2024  02:55 AM    <DIR>          performance
+12/19/2024  01:16 AM    <DIR>          settings
+12/19/2024  01:16 AM    <DIR>          splash
+12/19/2024  01:16 AM    <DIR>          storage
+               0 File(s)              0 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\lib\src\screens\analysis
+
+12/19/2024  06:37 PM    <DIR>          .
+12/19/2024  06:53 PM    <DIR>          ..
+12/19/2024  06:38 PM             4,240 analysis_screen.dart
+               1 File(s)          4,240 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\lib\src\screens\analytics
+
+12/19/2024  06:53 PM    <DIR>          .
+12/19/2024  06:53 PM    <DIR>          ..
+12/19/2024  06:53 PM             5,331 analytics_screen.dart
+               1 File(s)          5,331 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\lib\src\screens\battery
+
+12/19/2024  01:16 AM    <DIR>          .
+12/19/2024  06:53 PM    <DIR>          ..
+12/19/2024  02:43 AM             4,457 battery_screen.dart
+               1 File(s)          4,457 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\lib\src\screens\dashboard
+
+12/19/2024  01:16 AM    <DIR>          .
+12/19/2024  06:53 PM    <DIR>          ..
+12/19/2024  01:32 PM             5,653 dashboard_screen.dart
+               1 File(s)          5,653 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\lib\src\screens\main
+
+12/19/2024  02:35 AM    <DIR>          .
+12/19/2024  06:53 PM    <DIR>          ..
+12/19/2024  01:11 PM             4,533 main_screen.dart
+               1 File(s)          4,533 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\lib\src\screens\memory
+
+12/19/2024  02:54 AM    <DIR>          .
+12/19/2024  06:53 PM    <DIR>          ..
+12/19/2024  02:54 AM             5,369 memory_screen.dart
+               1 File(s)          5,369 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\lib\src\screens\optimization
+
+12/19/2024  06:29 PM    <DIR>          .
+12/19/2024  06:53 PM    <DIR>          ..
+12/19/2024  06:29 PM             3,398 optimization_screen.dart
+               1 File(s)          3,398 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\lib\src\screens\performance
+
+12/19/2024  02:55 AM    <DIR>          .
+12/19/2024  06:53 PM    <DIR>          ..
+12/19/2024  02:55 AM             4,714 performance_screen.dart
+               1 File(s)          4,714 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\lib\src\screens\settings
+
+12/19/2024  01:16 AM    <DIR>          .
+12/19/2024  06:53 PM    <DIR>          ..
+12/19/2024  01:55 PM             2,303 settings_screen.dart
+               1 File(s)          2,303 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\lib\src\screens\splash
+
+12/19/2024  01:16 AM    <DIR>          .
+12/19/2024  06:53 PM    <DIR>          ..
+12/19/2024  02:16 PM             1,381 splash_screen.dart
+               1 File(s)          1,381 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\lib\src\screens\storage
+
+12/19/2024  01:16 AM    <DIR>          .
+12/19/2024  06:53 PM    <DIR>          ..
+12/19/2024  02:42 AM             4,679 storage_screen.dart
+               1 File(s)          4,679 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\lib\src\services
+
+12/19/2024  06:19 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  06:12 PM    <DIR>          analytics
+12/19/2024  06:06 PM    <DIR>          device
+12/19/2024  06:09 PM               170 index.dart
+12/19/2024  06:11 PM    <DIR>          optimization
+12/19/2024  06:19 PM    <DIR>          permissions
+12/19/2024  02:40 PM    <DIR>          platform
+12/19/2024  06:18 PM               217 services.dart
+12/19/2024  06:10 PM    <DIR>          storage
+               2 File(s)            387 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\lib\src\services\analytics
+
+12/19/2024  06:12 PM    <DIR>          .
+12/19/2024  06:19 PM    <DIR>          ..
+12/19/2024  08:34 PM             2,239 analytics_service.dart
+               1 File(s)          2,239 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\lib\src\services\device
+
+12/19/2024  06:06 PM    <DIR>          .
+12/19/2024  06:19 PM    <DIR>          ..
+12/19/2024  08:34 PM             4,114 device_service.dart
+               1 File(s)          4,114 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\lib\src\services\optimization
+
+12/19/2024  06:11 PM    <DIR>          .
+12/19/2024  06:19 PM    <DIR>          ..
+12/19/2024  06:25 PM             2,017 optimization_service.dart
+               1 File(s)          2,017 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\lib\src\services\permissions
+
+12/19/2024  06:19 PM    <DIR>          .
+12/19/2024  06:19 PM    <DIR>          ..
+12/19/2024  06:19 PM               752 permission_service.dart
+               1 File(s)            752 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\lib\src\services\platform
+
+12/19/2024  02:40 PM    <DIR>          .
+12/19/2024  06:19 PM    <DIR>          ..
+12/19/2024  02:40 PM             1,666 platform_service.dart
+               1 File(s)          1,666 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\lib\src\services\storage
+
+12/19/2024  06:10 PM    <DIR>          .
+12/19/2024  06:19 PM    <DIR>          ..
+12/19/2024  08:35 PM             3,513 storage_service.dart
+               1 File(s)          3,513 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\lib\src\themes
+
+12/19/2024  01:16 AM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  02:11 PM             5,248 app_theme.dart
+               1 File(s)          5,248 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\lib\src\utils
+
+12/19/2024  08:41 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  06:48 PM               927 constants.dart
+12/19/2024  06:48 PM             1,026 error_handler.dart
+12/19/2024  08:52 PM             5,424 permission_utils.dart
+12/19/2024  06:45 PM             1,002 platform_utils.dart
+               4 File(s)          8,379 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\lib\src\widgets
+
+12/19/2024  02:02 PM    <DIR>          .
+12/19/2024  07:15 PM    <DIR>          ..
+12/19/2024  02:16 PM             1,029 animated_progress_bar.dart
+12/19/2024  01:16 AM    <DIR>          battery
+12/19/2024  02:41 AM               952 card_container.dart
+12/19/2024  07:15 PM    <DIR>          charts
+12/19/2024  06:58 PM    <DIR>          common
+12/19/2024  02:23 AM    <DIR>          storage
+               2 File(s)          1,981 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\lib\src\widgets\battery
+
+12/19/2024  01:16 AM    <DIR>          .
+12/19/2024  02:02 PM    <DIR>          ..
+12/19/2024  01:18 AM                 0 battery_indicator.dart
+               1 File(s)              0 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\lib\src\widgets\charts
+
+12/19/2024  07:15 PM    <DIR>          .
+12/19/2024  02:02 PM    <DIR>          ..
+12/19/2024  02:15 PM             2,398 base_pie_chart.dart
+12/19/2024  01:54 PM             2,157 device_health_chart.dart
+12/19/2024  06:41 PM             2,146 health_score_chart.dart
+12/19/2024  07:15 PM                 0 line_chart.dart
+12/19/2024  06:30 PM             1,446 optimization_progress_chart.dart
+               5 File(s)          8,147 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\lib\src\widgets\common
+
+12/19/2024  06:58 PM    <DIR>          .
+12/19/2024  02:02 PM    <DIR>          ..
+12/19/2024  01:18 AM                 0 app_button.dart
+12/19/2024  06:58 PM             1,138 loading_overlay.dart
+               2 File(s)          1,138 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\lib\src\widgets\storage
+
+12/19/2024  02:23 AM    <DIR>          .
+12/19/2024  02:02 PM    <DIR>          ..
+12/19/2024  01:18 AM                 0 storage_chart.dart
+12/19/2024  02:23 AM             1,126 storage_pie_chart.dart
+               2 File(s)          1,126 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\test
+
+12/19/2024  01:09 AM    <DIR>          .
+12/19/2024  11:00 PM    <DIR>          ..
+12/19/2024  01:09 AM    <DIR>          integration
+12/19/2024  01:09 AM    <DIR>          unit
+12/19/2024  01:09 AM    <DIR>          widget
+12/19/2024  08:52 PM               433 widget_test.dart
+               1 File(s)            433 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\test\integration
+
+12/19/2024  01:09 AM    <DIR>          .
+12/19/2024  01:09 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\test\unit
+
+12/19/2024  01:09 AM    <DIR>          .
+12/19/2024  01:09 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of D:\FlutterProjects\clean_guru\test\widget
+
+12/19/2024  01:09 AM    <DIR>          .
+12/19/2024  01:09 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+     Total Files Listed:
+             427 File(s)    138,390,793 bytes
+             839 Dir(s)  45,761,880,064 bytes free

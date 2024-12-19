@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import '../../routes.dart';
 
 class SplashScreen extends StatefulWidget {
   const SplashScreen({super.key});
@@ -8,6 +9,19 @@ class SplashScreen extends StatefulWidget {
 }
 
 class _SplashScreenState extends State<SplashScreen> {
+  @override
+  void initState() {
+    super.initState();
+    _navigateToMain();
+  }
+
+  Future<void> _navigateToMain() async {
+    await Future.delayed(const Duration(seconds: 2));
+    if (mounted) {
+      Navigator.pushReplacementNamed(context, Routes.main);
+    }
+  }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -35,7 +49,7 @@ class _SplashScreenState extends State<SplashScreen> {
               Text(
                 'Clean Guru',
                 style: Theme.of(context).textTheme.headlineMedium?.copyWith(
-                  color: Colors.white.withAlpha(255),
+                  color: Colors.white,
                   fontWeight: FontWeight.bold,
                 ),
               ),

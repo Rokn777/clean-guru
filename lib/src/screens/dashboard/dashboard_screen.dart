@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import '../../widgets/card_container.dart';
 import '../../widgets/charts/device_health_chart.dart';
-import '../../constants/app_constants.dart';
 
 class DashboardScreen extends StatelessWidget {
   const DashboardScreen({super.key});
@@ -104,7 +103,7 @@ class DashboardScreen extends StatelessWidget {
               ),
               Icon(
                 Icons.chevron_right,
-                color: Theme.of(context).colorScheme.onSurfaceVariant,
+                color: Theme.of(context).colorScheme.onSurface,
               ),
             ],
           ),
@@ -124,7 +123,7 @@ class DashboardScreen extends StatelessWidget {
           Text(
             '32.5 GB free of 128 GB',
             style: Theme.of(context).textTheme.bodyMedium?.copyWith(
-                  color: Theme.of(context).colorScheme.onSurfaceVariant,
+                  color: Theme.of(context).colorScheme.onSurface,
                 ),
           ),
         ],
@@ -147,7 +146,7 @@ class DashboardScreen extends StatelessWidget {
               ),
               Icon(
                 Icons.chevron_right,
-                color: Theme.of(context).colorScheme.onSurfaceVariant,
+                color: Theme.of(context).colorScheme.onSurface,
               ),
             ],
           ),
@@ -170,7 +169,7 @@ class DashboardScreen extends StatelessWidget {
                   Text(
                     '3.5 hours remaining',
                     style: Theme.of(context).textTheme.bodyMedium?.copyWith(
-                          color: Theme.of(context).colorScheme.onSurfaceVariant,
+                          color: Theme.of(context).colorScheme.onSurface,
                         ),
                   ),
                 ],
