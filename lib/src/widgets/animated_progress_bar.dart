@@ -24,9 +24,9 @@ class AnimatedProgressBar extends StatelessWidget {
         borderRadius: BorderRadius.circular(height),
         child: LinearProgressIndicator(
           value: value,
-          backgroundColor: Theme.of(context).colorScheme.surfaceVariant,
+          backgroundColor: Theme.of(context).colorScheme.surfaceContainerHighest,
           valueColor: AlwaysStoppedAnimation(
-            color ?? Theme.of(context).colorScheme.primary,
+            (color ?? Theme.of(context).colorScheme.primary).withAlpha(255),
           ),
           minHeight: height,
         ),

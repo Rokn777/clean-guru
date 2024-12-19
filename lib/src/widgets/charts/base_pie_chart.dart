@@ -1,22 +1,25 @@
 import 'package:flutter/material.dart';
 import 'package:fl_chart/fl_chart.dart';
+import '../constants/chart_constants.dart';
 
-class DeviceHealthChart extends StatelessWidget {
-  final double healthScore;
+class BasePieChart extends StatelessWidget {
+  final double value;
+  final String title;
+  final String subtitle;
+  final Color color;
   final double size;
-  final Color? color;
 
-  const DeviceHealthChart({
+  const BasePieChart({
     super.key,
-    required this.healthScore,
-    this.size = 180,  // Increased default size
-    this.color,
+    required this.value,
+    required this.title,
+    required this.subtitle,
+    required this.color,
+    this.size = ChartConstants.defaultChartSize,
   });
 
   @override
   Widget build(BuildContext context) {
-    final themeColor = color ?? Theme.of(context).colorScheme.primary;
-    
     return Column(
       children: [
         SizedBox(
@@ -26,43 +29,47 @@ class DeviceHealthChart extends StatelessWidget {
             PieChartData(
               sections: [
                 PieChartSectionData(
-                  value: healthScore,
-                  color: themeColor,
+                  value: value,
+                  color: color,
                   radius: size / 2,
-                  title: '${healthScore.toInt()}%',
+                  title: '${value.toInt()}%',
                   titleStyle: const TextStyle(
                     color: Colors.white,
                     fontSize: 16,
                     fontWeight: FontWeight.bold,
+                  ).copyWith(
+                    color: Colors.white.withAlpha(255),
                   ),
                 ),
                 PieChartSectionData(
-                  value: 100 - healthScore,
-                  color: Theme.of(context).colorScheme.surfaceVariant,
+                  value: 100 - value,
+                  color: Theme.of(context).colorScheme.surfaceContainerHighest,
                   radius: (size / 2) - 5,
-                  title: '${(100 - healthScore).toInt()}%',
+                  title: '${(100 - value).toInt()}%',
                   titleStyle: TextStyle(
-                    color: Theme.of(context).colorScheme.onSurfaceVariant,
+                    color: Theme.of(context).colorScheme.onSurface,
                     fontSize: 14,
                     fontWeight: FontWeight.bold,
+                  ).copyWith(
+                    color: Theme.of(context).colorScheme.onSurface.withAlpha(255),
                   ),
                 ),
               ],
-              sectionsSpace: 2,
-              centerSpaceRadius: 40,
+              sectionsSpace: ChartConstants.sectionSpace,
+              centerSpaceRadius: ChartConstants.centerSpace,
             ),
           ),
         ),
         const SizedBox(height: 16),
         Text(
-          'Storage Usage',
+          title,
           style: Theme.of(context).textTheme.titleMedium,
         ),
         const SizedBox(height: 8),
         Text(
-          '32.5 GB free of 128 GB',
+          subtitle,
           style: Theme.of(context).textTheme.bodyMedium?.copyWith(
-            color: Theme.of(context).colorScheme.primary,
+            color: color.withAlpha(255),
           ),
         ),
       ],
